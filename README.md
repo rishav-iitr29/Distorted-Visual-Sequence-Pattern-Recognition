@@ -11,8 +11,8 @@ OCR system for heavily occluded grayscale text sequences. Evolved through four a
 | `distorted_ocr_submission.ipynb` | Full pipeline: EDA, all four approaches, training loops, and final inference |
 | `best_seq2seq_ocr.pth` | Final model checkpoint (1D Transformer Seq2Seq, best val CER = 0.0050) |
 | `submission_rishav_24323032.csv` | Final test set predictions |
-| `Distorted_OCR_Project_Report.pdf` | Project report |
-| `Problem_Statement.pdf` | Original problem statement |
+| `Project Report.pdf` | Project report |
+| `CIG_AI_ML_PS.pdf` | Original problem statement |
 
 ---
 
